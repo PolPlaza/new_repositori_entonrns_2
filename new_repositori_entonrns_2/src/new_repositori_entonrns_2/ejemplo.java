@@ -1,0 +1,12 @@
+package new_repositori_entonrns_2;
+
+public class ejemplo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+	}
+
+}
